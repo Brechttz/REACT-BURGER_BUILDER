@@ -7,23 +7,22 @@ __Purpose:__
 A project to get to know React on a practical level.
 Learning the ins & outs of basic elements/principles up until advanced elements/principles.
 
-__Includes:__
+__Includes__
 ---
 
 * React (^v16.5)
-* Router
 * Firebase
 * Axios
 * Babel
 * Webpack
 
-__Not included:__
+__Not included__
 ---
 
 * Clean Styling
 * SASS
 
-__Practical Implementation of:__
+__Practical Implementation of__
 ---
 
 * React Component Internals
