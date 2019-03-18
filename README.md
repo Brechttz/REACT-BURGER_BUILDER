@@ -1,7 +1,7 @@
 # Burger Builder
 Burger builder project created with REACT
 
-__Purpose:__
+__Purpose__
 ---
 
 A project to get to know React on a practical level.
