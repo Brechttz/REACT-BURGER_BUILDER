@@ -1,4 +1,4 @@
-# REACT-BURGER_BUILDER
+# Burger Builder
 Burger builder project created with REACT
 
 __Purpose:__
@@ -28,8 +28,8 @@ __Practical Implementation of__
 * React Component Internals
 * HTTP
 * Router
-* Form validation
+* Forms & validation
 * Authentication
-* Redux
+* Redux (TO BE IMPLEMENTED)
 * Debugging
 * Testing
